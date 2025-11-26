@@ -1,6 +1,6 @@
-# Radar Simulator with Menu Navigation using ESP32
+# Testbench AEBS
 
-Proyek ini adalah simulator radar yang dibangun menggunakan dua modul ESP32 (ESP1 dan ESP2). ESP1 bertanggung jawab atas simulasi radar, logging data ke SD Card, playback CSV, komunikasi CAN bus, dan pengiriman data ke ESP2 via UART. ESP2 menangani antarmuka pengguna (UI) melalui LCD I2C, tombol navigasi, display 7-segment untuk RPM, dan pengiriman data RPM/speed ke CAN bus atau pulse.
+Proyek ini adalah Testbench yang dibangun menggunakan dua modul ESP32 (ESP1 dan ESP2). ESP1 bertanggung jawab atas simulasi radar, logging data ke SD Card, playback CSV, komunikasi CAN bus, dan pengiriman data ke ESP2 via UART. ESP2 menangani antarmuka pengguna (UI) melalui LCD I2C, tombol navigasi, display 7-segment untuk RPM, dan pengiriman data RPM/speed ke CAN bus atau pulse.
 
 Sistem ini mendukung mode Manual, Auto, Record, dan Play, dengan dukungan untuk berbagai unit truck (seperti HINO, HOWO, dll.) melalui konfigurasi CAN atau pulse.
 
