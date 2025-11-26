@@ -90,14 +90,3 @@ Pinout detail ada di kode (lihat komentar `#define`).
 
 Catatan: Pastikan SD Card terpasang sebelum masuk mode Rec/Play.
 
-## Kontribusi
-
-Kontribusi dipersilakan! Silakan fork repository ini, buat branch baru, dan submit pull request. Pastikan kode sesuai dengan gaya yang ada.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE). Lihat file LICENSE untuk detail.
-
-## Kontak
-
-Jika ada pertanyaan, buka issue di GitHub atau hubungi [nama Anda atau email].
